@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap1 | grep -v '^\.\./$' | paste -sd ',' - | sed 's/,\([^,]*\)$/ \1/'
+ls -map
