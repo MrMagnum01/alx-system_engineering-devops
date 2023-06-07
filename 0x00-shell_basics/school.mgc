@@ -1,3 +1,2 @@
-0       string  SCHOOL   School data
-!:mime  application/x-school
-
+0 string SCHOOL School data
+!:mime School
