@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -- *[A-Z]*.* /tmp/u; ls -la -s /tmp/u
+mv -- *[A-Z]*.* ls -la -s /tmp/u
