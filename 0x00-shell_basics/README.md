@@ -420,7 +420,7 @@ Directory names should end with a slash (/)
 	Directory: 0x00-shell_basics
 	File: 18-commas
 
-# 19. File type: Holberton #advanced
+# 19. File type: School #advanced
 
 Score: 100.00% (Checks completed: 100.00%)
 	Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
