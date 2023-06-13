@@ -34,6 +34,4 @@ Note: Always ensure that your scripts are executable before attempting to run th
 chmod +x script_name
 ```
 
-## License
 
-This project is licensed under the MIT License.
