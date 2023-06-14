@@ -32,5 +32,5 @@ This repository contains the tasks for Project 0x03. Shell, init files, variable
 
 ## Author
 
-- **Your Name** - [Your Github Profile](https://github.com/yourGithubUsername)
+- **Filali Mahmoud** - [Your Github Profile](https://github.com/MrMagnum01)
 
